@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <h2>Đây là trang chủ</h2>
       <Link href="/news">
-        About
+        News
       </Link>
     </main>
   );
